@@ -1,4 +1,4 @@
-# H1
+# #java.de IRC bot URLcollector API
 
 URLcollector API for the #java.de (freenode) IRC bot.
 
